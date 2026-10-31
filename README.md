@@ -1,6 +1,6 @@
 I'm a Salesforce architect who builds agent systems for my own work. These repos are the parts I ended up reusing: guardrails that stop an agent from acting without a human, evals that check its output, and the plumbing to keep many sessions straight. Each one runs from a single command with sample data, and each README has a Results section with counts from my own use.
 
-More about them: https://made-by-asking.pages.dev/showcase/
+All my work, Henry López · Made by Asking, filtered to the professional side: https://made-by-asking.pages.dev/showcase/#side=pro
 
 ## Guardrails
 
